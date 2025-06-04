@@ -7,10 +7,10 @@
 ---
 На "трійку"
 
-![](
+![](https://github.com/ppc-ntu-khpi/jexer-34-rronik3/blob/master/img/%D0%BD%D0%B0%D0%A2%D1%80%D1%96%D0%B9%D0%BA%D1%83.png)
 
 На "чотири"
-![](
+![](https://github.com/ppc-ntu-khpi/jexer-34-rronik3/blob/master/img/%D0%BD%D0%B0%D0%A7%D0%BE%D1%82%D0%B8%D1%80%D0%B8.png)
 
 На "п'ять"
-![](
+![](https://github.com/ppc-ntu-khpi/jexer-34-rronik3/blob/master/img/%D0%BD%D0%B0%D0%9F%D1%8F%D1%82%D1%8C.png)
