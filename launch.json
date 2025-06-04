@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch TUIdemo",
+            "request": "launch",
+            "mainClass": "com.mybank.tui.TUIdemo",
+            "classPaths": [
+                "${workspaceFolder}/lib/jexer.jar",
+                "${workspaceFolder}"
+            ]
+        }
+    ]
+}
